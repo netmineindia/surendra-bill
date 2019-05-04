@@ -1,0 +1,126 @@
+[{
+    "name": "Mani Kandan",
+    "series": [
+      {
+        "name": "Call",
+        "value": 73
+      },
+      {
+        "name": "Event",
+        "value": 55
+      },
+      {
+        "name": "Note",
+        "value": 13
+      },
+      {
+        "name": "SMS",
+        "value": 25
+      },
+      {
+        "name": "Other",
+        "value": 37
+      }
+    ]
+  },
+  {
+    "name": "Tony Antony",
+    "series": [
+        {
+            "name": "Call",
+            "value": 21
+          },
+          {
+            "name": "Event",
+            "value": 5
+          },
+          {
+            "name": "Note",
+            "value": 111
+          },
+          {
+            "name": "SMS",
+            "value": 33
+          },
+          {
+            "name": "Other",
+            "value": 37
+          }
+    ]
+  },
+  {
+    "name": "Ram",
+    "series": [
+        {
+            "name": "Call",
+            "value": 21
+          },
+          {
+            "name": "Event",
+            "value": 5
+          },
+          {
+            "name": "Note",
+            "value": 111
+          },
+          {
+            "name": "SMS",
+            "value": 33
+          },
+          {
+            "name": "Other",
+            "value": 37
+          }
+    ]
+  },
+  {
+    "name": "Rahim L. K",
+    "series": [
+        {
+            "name": "Call",
+            "value": 21
+          },
+          {
+            "name": "Event",
+            "value": 5
+          },
+          {
+            "name": "Note",
+            "value": 111
+          },
+          {
+            "name": "SMS",
+            "value": 33
+          },
+          {
+            "name": "Other",
+            "value": 37
+          }
+    ]
+  },
+  {
+    "name": "J. Adheesh",
+    "series": [
+        {
+            "name": "Call",
+            "value": 21
+          },
+          {
+            "name": "Event",
+            "value": 5
+          },
+          {
+            "name": "Note",
+            "value": 111
+          },
+          {
+            "name": "SMS",
+            "value": 33
+          },
+          {
+            "name": "Other",
+            "value": 37
+          }
+    ]
+  }
+]
